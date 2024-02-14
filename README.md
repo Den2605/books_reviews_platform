@@ -7,7 +7,7 @@
 ### Как запустить проект:
 Клонировать репозиторий и перейти в него в командной строке:
 ```
-git clone https://github.com/antonvm26/api_yamdb.git
+git clone https://github.com/Den2605/books_reviews_platform.git
 ```
 ```
 cd api_yamdb
